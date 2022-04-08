@@ -1,0 +1,6 @@
+F:\__2022__\sam\Email\TestEmail\bin\Debug\TestEmail.exe
+F:\__2022__\sam\Email\TestEmail\bin\Debug\TestEmail.pdb
+F:\__2022__\sam\Email\TestEmail\obj\x86\Debug\TestEmail.csproj.CoreCompileInputs.cache
+F:\__2022__\sam\Email\TestEmail\obj\x86\Debug\TestEmail.exe
+F:\__2022__\sam\Email\TestEmail\obj\x86\Debug\TestEmail.pdb
+F:\__2022__\sam\Email\TestEmail\obj\x86\Debug\TestEmail.csproj.AssemblyReference.cache

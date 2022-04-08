@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Email", "Email\Email.csproj", "{DDF41C98-2DF3-42B5-B384-7DC9E912BDC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEmail", "TestEmail\TestEmail.csproj", "{416B5876-5996-4B14-AC33-EC1CF79EE02A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDF41C98-2DF3-42B5-B384-7DC9E912BDC6}.Debug|x86.ActiveCfg = Debug|x86
+		{DDF41C98-2DF3-42B5-B384-7DC9E912BDC6}.Debug|x86.Build.0 = Debug|x86
+		{DDF41C98-2DF3-42B5-B384-7DC9E912BDC6}.Release|x86.ActiveCfg = Release|x86
+		{DDF41C98-2DF3-42B5-B384-7DC9E912BDC6}.Release|x86.Build.0 = Release|x86
+		{416B5876-5996-4B14-AC33-EC1CF79EE02A}.Debug|x86.ActiveCfg = Debug|x86
+		{416B5876-5996-4B14-AC33-EC1CF79EE02A}.Debug|x86.Build.0 = Debug|x86
+		{416B5876-5996-4B14-AC33-EC1CF79EE02A}.Release|x86.ActiveCfg = Release|x86
+		{416B5876-5996-4B14-AC33-EC1CF79EE02A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
